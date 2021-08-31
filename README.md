@@ -11,7 +11,7 @@
 
 <!-- - 📝 I regularly write articles on [https://abhishekdh.medium.com/](https://abhishekdh.medium.com/) -->
 
-- 📫 How to reach me **abhishekdhoundiyal01@gmail.com**
+- 📫 How to reach me **Harshitshah156@gmail.com**
 
 - 📄 Know about my experiences [https://harshitautomation.github.io/](https://harshitautomation.github.io/)
 
